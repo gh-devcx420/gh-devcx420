@@ -2,7 +2,7 @@
 **Flutter Developer | Dart | Firebase/Firestore | Cross-Platform App Development**
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_devcx420) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tw_devcx420) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yt_devcx420) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sricharan-prabhakar-598306211/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rd_devCx420)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mt_devcx420) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tw_devcx420) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yt_devcx420) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sricharan-prabhakar-598306211/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rd_devCx420)
 
 ## 📁 Repositories:
 **BMI Calculator** - [Click Here](https://github.com/gh-devcx420/bmi_calculator)<br/>
@@ -19,15 +19,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=gh-devcx420&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gh-devcx420&theme=nightowl&hide_border=false)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=gh-devcx420&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 💰 You can help me by Donating:
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/devcx420)
-
-### 🐦 Latest Tweet:
-[![](https://gtce.itsvg.in/api?username=tw_devcx420)](https://twitter.com/tw_devCx420)
-
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme:
-<img src="https://rm.up.railway.app/" width="512px"/>
